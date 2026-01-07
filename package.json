@@ -5,6 +5,8 @@
   "main": "dist/modules/libsodium-wrappers.js",
   "files": [
     "dist/modules/libsodium-wrappers.js",
+    "dist/modules/libsodium.esm.js",
+    "dist/modules/libsodium-esm-wrappers.js",
     "package.json"
   ],
   "repository": {
